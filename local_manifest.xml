@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Trees -->
- <project path="device/xiaomi/rosemary" name="SpendyYT/device_xiaomi_rosemary.git" remote="github" revision="lineage-20" />
+ <project path="device/xiaomi/rosemary" name="SpendyYT/device_xiaomi_rosemary.git" remote="github" revision="pixelos" />
  <project path="vendor/xiaomi/rosemary-firmware" name="SpendyYT/vendor_xiaomi_rosemary-firmware.git" remote="github" revision="thirteen" />
  <project path="vendor/xiaomi/rosemary" name="SpendyYT/vendor_xiaomi_rosemary.git" remote="github" revision="lineage-20" />
  <project path="kernel/xiaomi/rosemary" name="SpendyYT/kernel_xiaomi_rosemary.git" remote="github" revision="lineage-20" />
